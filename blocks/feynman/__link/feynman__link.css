@@ -8,8 +8,3 @@
     top: 50%;
     right: 48px;
 }
-
-.feynman__link:hover {
-    transition: opacity .5s linear;
-    opacity: .5;
-}
